@@ -3,8 +3,8 @@
  * dependencies.
  */
 
-var emitter = require('emitter')
-  , event = require('event');
+var emitter = require('component-emitter')
+  , event = require('component-event');
 
 /**
  * timeoutid.

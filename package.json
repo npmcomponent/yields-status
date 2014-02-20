@@ -1,0 +1,16 @@
+{
+  "name": "yields-status",
+  "description": "User \"active\" / \"idle\" event emitter.",
+  "version": "0.0.2",
+  "keywords": [
+    "idle",
+    "active",
+    "status",
+    "user"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}
